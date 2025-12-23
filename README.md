@@ -1,5 +1,6 @@
 # 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
-
+## NAME: MEGALA VALLI N
+## REF NO:25017629 
 **AIM:**
 
 To determine the voltage in the circuit using nodal analysis both theoretically and practically for a given DC circuit.
@@ -20,6 +21,14 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **Circuit diagram**
 
+![WhatsApp Image 2025-12-23 at 5 50 01 PM](https://github.com/user-attachments/assets/7e5d1961-646a-4575-9e5f-76fc03cf94b5)
+
+![WhatsApp Image 2025-12-23 at 5 50 01 PM (1)](https://github.com/user-attachments/assets/6f06012b-93f7-41d3-95b7-907ec8a119b3)
+
+![WhatsApp Image 2025-12-23 at 5 50 02 PM](https://github.com/user-attachments/assets/6f00bb26-335e-441e-b5c7-c4c1db9cde51)
+
+
+![WhatsApp Image 2025-12-23 at 5 50 02 PM (1)](https://github.com/user-attachments/assets/eebfc4f2-9aa6-45f5-9d9b-da730f72f472)
 
  
 **PROCEDURE:**
